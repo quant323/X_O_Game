@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "177322838832",
+    "firebase_url": "https://xo-game-v1.firebaseio.com",
+    "project_id": "xo-game-v1",
+    "storage_bucket": "xo-game-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177322838832:android:defd5ad799e830ba9616f5",
+        "android_client_info": {
+          "package_name": "com.stanislavsurov.x_ogame_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177322838832-2l02ji3m3lcqa726iggjikj5dlka9ue2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stanislavsurov.x_ogame_v1",
+            "certificate_hash": "2df4145c9125eebb65534e5c9ae4ac6b03675530"
+          }
+        },
+        {
+          "client_id": "177322838832-1vu0j3mdgktj562jjp5s26ccdn1npfm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeoC9RNUItLyc_lnTLRELuIe8CzEq81VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177322838832-1vu0j3mdgktj562jjp5s26ccdn1npfm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">X_O Game_v1</string>
+    <string name="news">sdfsdfd</string>
+    <string name="button">Button</string>
+    <string name="button2">button2</string>
+    <string name="clean_button">clean</string>
+    <string name="winner_text">You won!</string>
+    <string name="empty_field">.</string>
+    
+    <string name="action_game_mode">Game Mode</string>
+    <string name="action_settings">Settings</string>
+</resources>
