@@ -1,4 +1,4 @@
 # X_O_Game
 Игра "Крестики-Нолики" с возможностью играть против компьютера или по сети двум игрокам
 
-![Test](_gifs/demo_GIF.gif)
+![Demonstration](_gifs/X_O_Game_demo.gif)
